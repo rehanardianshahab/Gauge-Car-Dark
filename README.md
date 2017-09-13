@@ -2,6 +2,28 @@
 I.	Type : Gauge
 
 II.	Option :
+
+#### **Title :** 
+ 1.	title : text (string) : untuk membuat judul pada echart
+ 2.	title: subtext (string) : support untuk membuat garis baru
+ 3.	title: sublink (string) : text yang support untuk hyperlink
+ 4.	title : link (string) : untuk berpindahan halaman dengan menggunakan text.
+ 5.	title : padding (number) : membuat ruang di sekitar text.
+ 6.	title : backgroundColor (color) : mengubah warna belakang sebuah objek.
+ 7.	title : borderColor (color) : mengubah warna area pinggir pada objek.
+ 8.	title : shadowBlur (number) : membuat bayangan objek menjadi blur.
+ 9.	title : shadowColor (color) : mengubah warna bayangan objek.
+ 10.	title : shadowOffsetX (number) : jarak bayangan horizontal.
+ 11.	title : shadowOffsetY (number) : jarak bayangan vertikal.
+ 12.	title : textAlign (string) : menentukan posisi huruf (left,center,right).
+ 13.	title : textBaseLine (string) : mengatur posisi text dalam vertical (middle,top,bottom).
+ 14.	title : textStyle : color(string) : untuk mengubah warna pada text.
+ 15.	title : textStyle : fontSize(number) : untuk mengubah ukuran text (default=18).
+ 16.	title : textStyle : fontStyle(string) : italic : mengubah huruf menjadi miring.
+ 17.	title : textStyle : fontWeight (string) : bold : membuat text menjadi tebal.
+ 18.	title : textStyle : fontWeight (string) : lighter : membuat text menjadi tipis.
+ 19.	title : textStyle : fontFamily (string) : mengubah jenis font.
+
 #### **Toolbox** ####
 1.	toolbox : show (boolean) : memunculkan komponen toolbox (default=false).
 2.	toolbox : orient (string) : untuk menentukan letak ikon toolbox (default=horizontal) (horizontal,vertical).
